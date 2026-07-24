@@ -1,0 +1,1 @@
+This repository showcases my work from a Machine Learning Bootcamp as a beginner, powered by Shohoj Coding. It includes practical exercises, mini-projects, and notes covering foundational ML concepts and implementation.
